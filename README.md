@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm 
-  <a href="https://tranthanhtungreal.id.vn/" target="_blank">Trần Thanh Tùng</a> 
+  <a href="https://tranthanhtungreal.id.vn/" target="_blank">Tung Thanh Tran</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
@@ -24,7 +24,7 @@
 
 ## 👋 About Me
 
-I am Trần Thanh Tùng, an AI Engineer Intern from Vietnam 🇻🇳  
+I am Tung Thanh Tran, an AI Engineer Intern from Vietnam 🇻🇳  
 I focus on building AI systems in Natural Language Processing and Computer Vision, with an emphasis on real world applications.
 
 ## 🎯 Career Objective
@@ -93,6 +93,6 @@ GPA: 3.05 / 4.0
 
 <p align="center">
   <a href="https://github.com/tthtung274">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=TranThanhTung&color=000000">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=TungThanhTran&color=000000">
   </a>
 </p>
