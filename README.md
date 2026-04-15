@@ -24,16 +24,16 @@
 I am an AI Engineer Intern from Vietnam 🇻🇳  
 Focused on building real world AI systems using NLP and Computer Vision.
 
-• Strong interest in practical AI applications  
-• Passionate about learning and improving continuously  
-• Goal: Become a professional AI Engineer and deploy scalable systems  
+• Interested in practical AI applications  
+• Continuously learning and improving  
+• Goal: Build and deploy real world AI systems  
 
 ---
 
 ### 🎯 Career Goal
 
-Develop strong foundations in data processing, model optimization, and deployment.  
-Actively contribute to real world AI products in the near future.
+Strengthen skills in data processing, model optimization, and deployment.  
+Aim to contribute to real AI products in production environments.
 
 ---
 
@@ -54,9 +54,12 @@ Actively contribute to real world AI products in the near future.
 
 <br /><br />
 
-### 📊 GitHub Stats
+### 🚀 Focus
 
-<img src="https://github-readme-stats.vercel.app/api?username=tthtung274&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+• AI Projects (NLP + Computer Vision)  
+• Model Optimization  
+• API Integration (Flask / NodeJS)  
+• Real world deployment mindset  
 
 </td>
 </tr>
