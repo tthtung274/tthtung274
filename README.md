@@ -3,20 +3,22 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br />
 
+<p align="center">
 <a href="https://tranthanhtungreal.id.vn/" target="_blank">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
+  <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="mailto:tthtung274@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://facebook.com/tthtung274/" target="_blank">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-facebook.svg" height="40" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+</p>
 
 <br />
 <br />
 
-Hi, I'm Trần Thanh Tùng, an AI Engineer Intern from Vietnam 🇻🇳.  
+Hi, I'm Trần Thanh Tùng, an AI Engineer Intern from Vietnam 🇻🇳  
 I focus on building AI systems with NLP and Computer Vision, and developing real world applications.
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200" height="200" /></a>
@@ -89,6 +91,13 @@ AI Engineer, Full Stack Developer | 08/2025 - 10/2025
 - Honest and responsible  
 - Able to work under pressure  
 
+## 🤖 AI Stack
+
+- NLP: PhoBERT  
+- Computer Vision: ResNet18  
+- Backend AI: Flask API  
+- Data Processing and Model Training  
+
 ## 🏆 Achievements
 
 - Excellent Award in Faculty Scientific Research 2025  
@@ -109,15 +118,17 @@ AI Engineer, Full Stack Developer | 08/2025 - 10/2025
 
 ---
 
-**Languages and Tools:**
+## ⚙️ Tech Stack
 
-<p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" />
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" />
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-react.svg" height="40" />
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-html.svg" height="40" />
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-css.svg" height="40" />
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-python.svg" height="40" />
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
 </p>
 
 ---
