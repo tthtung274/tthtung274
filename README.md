@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tung Thanh Tran</h1>
-<h3 align="center">AI Engineer Intern | NLP & Computer Vision</h3>
 
 <p align="center">
   <a href="https://tranthanhtungreal.id.vn/" target="_blank">
