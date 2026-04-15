@@ -1,75 +1,127 @@
-
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
+<h1 align="center">Hi there, I'm <a href="https://tranthanhtungreal.id.vn/" target="_blank">Trần Thanh Tùng</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
 
-<a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
+<a href="https://tranthanhtungreal.id.vn/" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
 </a>
-<a href="mailto:i@blackcater.dev">
+<a href="mailto:tthtung274@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
-<a href="https://leetcode-cn.com/u/blackcater/">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
+<a href="https://facebook.com/tthtung274/" target="_blank">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-facebook.svg" height="40" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Elon Tang, a frontend engineer from China 🇨🇳. Dedicated to being a fullstack engineer.
+Hi, I'm Trần Thanh Tùng, an AI Engineer Intern from Vietnam 🇻🇳.  
+I focus on building AI systems with NLP and Computer Vision, and developing real world applications.
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200" height="200" /></a>
 
-## ✏️ Recent Blog
+## 🎯 Career Objective
 
-- <a href='http://www.blackcater.win/2019/05-18/let-your-static-page-support-https' target='_blank'>让你的静态页面支持 https</a> - 2019-05-18
-- <a href='http://www.blackcater.win/2019/01-01/javascript-engine-shapes-ics' target='_blank'>JavaScript引擎基础：形与行内缓存（翻译）</a> - 2019-05-01
-- <a href='http://www.blackcater.win/2019/04-09/iview-usage-experience' target='_blank'>iview 使用经验总结</a> - 2019-04-09
-- <a href='http://www.blackcater.win/2019/03-01/deploy-your-own-npm-registry' target='_blank'>搭建私有npm镜像</a> - 2019-03-01
-- <a href='http://www.blackcater.win/2019/02-08/mini-program-usage-experience-for-finger' target='_blank'>“Finger 音乐课堂”小程序开发总结</a> - 2019-02-08
+Aspiring to grow as an AI Engineer Intern, focusing on data processing, building and optimizing NLP and Computer Vision models.  
+In the near future, aiming to strengthen technical expertise and gradually participate in deploying real world AI applications.
 
-<!-- blog_plugin_start -->
+## 🎓 Education
 
-<!-- blog_plugin_end -->
+**Hanoi University of Natural Resources and Environment**  
+Information Technology  
+2022 - 2026  
+GPA: 3.05 / 4.0  
 
-<!-- github_plugin_start -->
+## 💼 Work Experience
 
-## ⛳️ Project Release
+**Sointech Group Joint Stock Company**  
+Intern | 11/2025 - 02/2026  
 
-- <a href='https://github.com/blackcater/blackcater/releases/tag/v1.0.4' target='_blank'>blackcater@v1.0.4</a> - 2021-05-04
-  <br/> Support pre-release.
-- <a href='https://github.com/blackcater/tailwind-plugin-tokens/releases/tag/3.2.2' target='_blank'>tailwind-plugin-tokens@3.2.2</a> - 2024-09-26
-  <br/> Release 3.2.2
-- <a href='https://github.com/blackcater-archive/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>unisite@v0.1.0-alpha.3<sup>pre-release</sup></a> - 2021-04-29
-  <br/> Migrate to windicss.
-- <a href='https://github.com/blackcater/gatsby-plugin-windicss/releases/tag/0.1.0' target='_blank'>gatsby-plugin-windicss@0.1.0</a> - 2021-05-14
-  <br/> Support windicss@3
-- <a href='https://github.com/blackcater/LeetCodeCN-Dark/releases/tag/v1.4.3' target='_blank'>LeetCodeCN-Dark@v1.4.3</a> - 2021-02-07
+- Learned web development with ReactJS and NodeJS  
+- Participated in UI and simple feature development  
+- Got familiar with software development and testing process  
+- Used Git for source code management  
 
-<!-- github_plugin_end -->
+## 🚀 Projects
 
-<!-- wakatime_plugin_start -->
+### Autonomous Robot for Plant Monitoring and Care
+AI, IoT Engineer, Full Stack Developer | 08/2025 - 10/2025  
 
-## 🌗 Weekly Development Breakdown
+- Built a robot that follows line and avoids obstacles  
+- Collected more than 5000 plant leaf images for training  
+- Applied Computer Vision to analyze plant conditions  
 
+**Tech stack:** ResNet18, Flask API  
 
-<!-- wakatime_plugin_end -->
+---
+
+### Real Estate Platform with AI Chatbot and 360 Viewing
+AI Engineer, Full Stack Developer | 09/2024 - 08/2025  
+
+- Developed 360 degree house viewing feature  
+- Integrated maps and search functionality  
+- Built AI chatbot with accuracy over 90 percent  
+
+**Tech stack:** PhoBERT, A Frame  
+
+---
+
+### Handmade E Commerce Platform
+AI Engineer, Full Stack Developer | 08/2025 - 10/2025  
+
+- Integrated authentication, payment and delivery APIs  
+- Built chatbot for customer support and consultation  
+
+**Tech stack:** PhoBERT, REST API  
+
+## 🛠️ Skills
+
+### Technical Skills
+- Frontend: HTML, CSS, JavaScript, ReactJS, NextJS  
+- Backend: PHP, NodeJS  
+- NLP: PhoBERT  
+- Computer Vision: ResNet18  
+
+### Soft Skills
+- Logical thinking and problem solving  
+- Proactive in learning new technologies  
+- Honest and responsible  
+- Able to work under pressure  
+
+## 🏆 Achievements
+
+- Excellent Award in Faculty Scientific Research 2025  
+- Third Prize in University Scientific Research 2025  
+
+## 🎯 Interests
+
+- Football  
+- Photography  
+- Scientific research  
+
+## 📫 Contact
+
+- Phone: 0385 183 923  
+- Email: tthtung274@gmail.com  
+- Website: https://tranthanhtungreal.id.vn/  
+- Facebook: https://facebook.com/tthtung274/  
+
+---
 
 **Languages and Tools:**
 
 <p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-react.svg" height="40" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-html.svg" height="40" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-css.svg" height="40" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-python.svg" height="40" />
 </p>
-
-<!-- badge_plugin_start -->
 
 ---
 
-<a href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=blackcater&color=000000"></a>
-<a href="https://github.com/blackcater/blackcater/blob/main/LICENSE" alt="https://github.com/blackcater/blackcater/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
-
-<!-- badge_plugin_end -->
+<a href="https://github.com/tthtung274">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=TranThanhTung&color=000000">
+</a>
