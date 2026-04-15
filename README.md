@@ -33,49 +33,7 @@ In the near future, aiming to strengthen technical expertise and gradually parti
 **Hanoi University of Natural Resources and Environment**  
 Information Technology  
 2022 - 2026  
-GPA: 3.05 / 4.0  
-
-## 💼 Work Experience
-
-**Sointech Group Joint Stock Company**  
-Intern | 11/2025 - 02/2026  
-
-- Learned web development with ReactJS and NodeJS  
-- Participated in UI and simple feature development  
-- Got familiar with software development and testing process  
-- Used Git for source code management  
-
-## 🚀 Projects
-
-### Autonomous Robot for Plant Monitoring and Care
-AI, IoT Engineer, Full Stack Developer | 08/2025 - 10/2025  
-
-- Built a robot that follows line and avoids obstacles  
-- Collected more than 5000 plant leaf images for training  
-- Applied Computer Vision to analyze plant conditions  
-
-**Tech stack:** ResNet18, Flask API  
-
----
-
-### Real Estate Platform with AI Chatbot and 360 Viewing
-AI Engineer, Full Stack Developer | 09/2024 - 08/2025  
-
-- Developed 360 degree house viewing feature  
-- Integrated maps and search functionality  
-- Built AI chatbot with accuracy over 90 percent  
-
-**Tech stack:** PhoBERT, A Frame  
-
----
-
-### Handmade E Commerce Platform
-AI Engineer, Full Stack Developer | 08/2025 - 10/2025  
-
-- Integrated authentication, payment and delivery APIs  
-- Built chatbot for customer support and consultation  
-
-**Tech stack:** PhoBERT, REST API  
+GPA: 3.05 / 4.0
 
 ## 🛠️ Skills
 
@@ -90,13 +48,6 @@ AI Engineer, Full Stack Developer | 08/2025 - 10/2025
 - Proactive in learning new technologies  
 - Honest and responsible  
 - Able to work under pressure  
-
-## 🤖 AI Stack
-
-- NLP: PhoBERT  
-- Computer Vision: ResNet18  
-- Backend AI: Flask API  
-- Data Processing and Model Training  
 
 ## 🏆 Achievements
 
