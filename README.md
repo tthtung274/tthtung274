@@ -118,15 +118,41 @@ I aim to deepen my understanding of the **full software development lifecycle** 
 
 ## 🎯 Interests
 
+<table align="center">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Soccer%20Ball.png" width="85" />
+
 ### ⚽ Football
+
 Passionate about football since childhood. The game taught me teamwork, strategy, discipline, and perseverance.
 
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" width="85" />
+
 ### 📷 Photography
+
 Photography helps me notice details, capture meaningful moments, and discover beauty in everyday life.
 
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="85" />
+
 ### 🔬 Research
+
 I enjoy exploring real world problems through scientific thinking and continuous experimentation.
 
+</td>
+
+</tr>
+</table>
 ---
 
 ## 📫 Connect With Me
