@@ -50,14 +50,25 @@ GPA: 3.05 / 4.0
 
     </td>
   </tr>
-</table>
+</td>
 
 ---
 
 ### 🛠️ Toolkit
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,unity" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=php,nodejs" />
+  <img src="https://skillicons.dev/icons?i=postgresql,supabase" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=py" />
+</p>
+
 | Category | Technologies |
-|----------|--------------|
+|----------|-------------|
 | **Game** | Unity, C# |
 | **Frontend** | HTML, CSS, JS, ReactJS, NextJS |
 | **Backend** | PHP, NodeJS |
