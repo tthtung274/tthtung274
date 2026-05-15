@@ -20,12 +20,15 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="50%">
+      
 ### 🎓 Education
 
-| | |
-|--|--|
-| **Hanoi University of Natural Resources and Environment** | **Information Technology** |
-| 📍 Vietnam | 2022 – 2026 • GPA: 3.05/4.0 |
+**Hanoi University of Natural Resources and Environment**  
+Information Technology (2022 – 2026)  
+GPA: 3.05 / 4.0
 
 ---
 
@@ -35,6 +38,19 @@
 |------|-------|
 | 2025 | **Excellence Award** in Department Scientific Research |
 | 2025 | **Third Prize** in University Scientific Research |
+
+    </td>
+    <td width="50%" align="center">
+      
+<img src="https://github-readme-stats.vercel.app/api?username=tthtung274&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=FFB800&title_color=FFB800&text_color=FFFFFF" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tthtung274&theme=dark&hide_border=true&background=0D1117&stroke=FFB800&ring=FFB800&fire=FFB800&currStreakLabel=FFB800" width="100%" />
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,14 +73,11 @@
 
 ### 🎯 Interests – What drives me outside the screen
 
-#### ⚽ Football
-*Passionate about football since childhood - the pitch taught me teamwork, strategy and never giving up.*
-
-#### 📷 Photography
-*Seeing the world through a lens - photography helps me notice details and find beauty in ordinary things.*
-
-#### 🔬 Research
-*Solving real-world problems with scientific methods - every research project is a journey of discovery.*
+| Hobby | Description |
+|-------|-------------|
+| ⚽ **Football** | Passionate about football since childhood - the pitch taught me teamwork, strategy and never giving up. |
+| 📷 **Photography** | Seeing the world through a lens - photography helps me notice details and find beauty in ordinary things. |
+| 🔬 **Research** | Solving real-world problems with scientific methods - every research project is a journey of discovery. |
 
 ---
 
