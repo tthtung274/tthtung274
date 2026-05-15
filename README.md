@@ -14,88 +14,66 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%">
-
-### 👨‍💻 About Me
-
-I am an AI Engineer Intern & Unity Game Developer from Vietnam 🇻🇳  
-Focused on building real world AI systems using NLP and Computer Vision,  
-while also creating interactive games and experiences with Unity.
-
-• Interested in practical AI applications and game development  
-• Continuously learning and improving both fields  
-• Goal: Build and deploy real world AI systems and engaging games  
-
----
-
-### 🎯 Career Goal
-
-Strengthen skills in data processing, model optimization, game mechanics, and deployment.  
-Aim to contribute to real AI products and game projects in production environments.
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,php,html,css" />
+<p align="center">
+  <i>I am working toward becoming a <b>Software Engineer</b> with a strong interest in building interactive and practical applications. My experience spans frontend, AI, and game development, enabling me to approach problems from multiple perspectives. I aim to deepen my understanding of the full development lifecycle and build software that is not only functional but also engaging and impactful.</i>
 </p>
-
-• NLP: PhoBERT  
-• Computer Vision: ResNet18  
-• Game Development: Unity, C#
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="100%" />
-
-<br /><br />
-
-### 🚀 Focus
-
-• AI Projects (NLP + Computer Vision)  
-• Game Development with Unity  
-• Model Optimization  
-• API Integration (Flask / NodeJS)  
-• Real world deployment mindset  
-
-</td>
-</tr>
-</table>
 
 ---
 
 ### 🎓 Education
 
-**Hanoi University of Natural Resources and Environment**  
-Information Technology (2022 – 2026)  
-GPA: 3.05 / 4.0  
+| | |
+|--|--|
+| **Hanoi University of Natural Resources and Environment** | **Information Technology** |
+| 📍 Vietnam | 2022 – 2026 • GPA: 3.05/4.0 |
 
 ---
 
-### 🏆 Achievements
+### 🏆 Awards
 
-• Excellent Award in Faculty Scientific Research 2025  
-• Third Prize in University Scientific Research 2025  
+| Year | Award |
+|------|-------|
+| 2025 | **Excellence Award** in Department Scientific Research |
+| 2025 | **Third Prize** in University Scientific Research |
 
 ---
 
-### 🎯 Interests
+### 🛠️ Toolkit
 
-Football · Photography · Scientific Research · Game Development  
+| Category | Technologies |
+|----------|--------------|
+| **Game** | Unity, C# |
+| **Frontend** | HTML, CSS, JS, ReactJS, NextJS |
+| **Backend** | PHP, NodeJS |
+| **NLP** | PhoBERT, BiLSTM, Attention |
+| **Computer Vision** | ResNet18 |
+| **Database** | PostgreSQL, Supabase |
+| **Embedded & IoT** | Arduino, ESP32, ESP8266 |
+
+#### Soft Skills
+`Logical Thinking & Problem Solving` • `Self-Learning & Tech Adaptability` • `Honest & Responsible` • `Work Under Pressure`
+
+---
+
+### 🎯 Interests – What drives me outside the screen
+
+#### ⚽ Football
+*Passionate about football since childhood - the pitch taught me teamwork, strategy and never giving up.*
+
+#### 📷 Photography
+*Seeing the world through a lens - photography helps me notice details and find beauty in ordinary things.*
+
+#### 🔬 Research
+*Solving real-world problems with scientific methods - every research project is a journey of discovery.*
 
 ---
 
 ### 📫 Contact
 
-• Phone: 0385 183 923  
-• Email: tthtung274@gmail.com  
-• Website: https://tranthanhtungreal.id.vn  
-• Facebook: https://facebook.com/tthtung274  
+- 📞 Phone: 0385 183 923
+- ✉️ Email: tthtung274@gmail.com
+- 🌐 Website: https://tranthanhtungreal.id.vn
+- 💬 Facebook: https://facebook.com/tthtung274
 
 ---
 
