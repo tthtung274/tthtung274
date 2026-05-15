@@ -20,19 +20,20 @@
 
 ### 👨‍💻 About Me
 
-I am an AI Engineer Intern from Vietnam 🇻🇳  
-Focused on building real world AI systems using NLP and Computer Vision.
+I am an AI Engineer Intern & Unity Game Developer from Vietnam 🇻🇳  
+Focused on building real world AI systems using NLP and Computer Vision,  
+while also creating interactive games and experiences with Unity.
 
-• Interested in practical AI applications  
-• Continuously learning and improving  
-• Goal: Build and deploy real world AI systems  
+• Interested in practical AI applications and game development  
+• Continuously learning and improving both fields  
+• Goal: Build and deploy real world AI systems and engaging games  
 
 ---
 
 ### 🎯 Career Goal
 
-Strengthen skills in data processing, model optimization, and deployment.  
-Aim to contribute to real AI products in production environments.
+Strengthen skills in data processing, model optimization, game mechanics, and deployment.  
+Aim to contribute to real AI products and game projects in production environments.
 
 ---
 
@@ -44,6 +45,7 @@ Aim to contribute to real AI products in production environments.
 
 • NLP: PhoBERT  
 • Computer Vision: ResNet18  
+• Game Development: Unity, C#
 
 </td>
 
@@ -56,6 +58,7 @@ Aim to contribute to real AI products in production environments.
 ### 🚀 Focus
 
 • AI Projects (NLP + Computer Vision)  
+• Game Development with Unity  
 • Model Optimization  
 • API Integration (Flask / NodeJS)  
 • Real world deployment mindset  
@@ -83,7 +86,7 @@ GPA: 3.05 / 4.0
 
 ### 🎯 Interests
 
-Football · Photography · Scientific Research  
+Football · Photography · Scientific Research · Game Development  
 
 ---
 
