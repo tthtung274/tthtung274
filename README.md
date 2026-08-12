@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tung Thanh Tran</h1>
 
 <h3 align="center">
-Software Engineer • AI • Game Development • Frontend Development
+Game Development
 </h3>
 
 <p align="center">
-Passionate about building interactive, practical, and impactful software.
+Passionate about building interactive, engaging, and impactful gaming experiences
 </p>
 
 <p align="center">
@@ -26,12 +26,7 @@ Passionate about building interactive, practical, and impactful software.
 
 ## 🚀 About Me
 
-I am working toward becoming a **Software Engineer** with a strong interest in building **interactive and practical applications**.
-
-My experience spans **Frontend Development, Artificial Intelligence, and Game Development**, allowing me to approach problems from multiple perspectives.
-
-I aim to deepen my understanding of the **full software development lifecycle** and create products that are not only functional but also engaging and impactful.
-
+I am an aspiring Game Developer with a passion for creating engaging and memorable gaming experiences. My goal is to continuously refine my technical and creative skills, contribute to impactful game projects, and grow into a professional Game Developer capable of delivering games that players genuinely enjoy.
 </td>
 
 <td width="50%" align="center">
